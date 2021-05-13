@@ -1,6 +1,6 @@
 # html-includer
 
-This is a simple library which was inspired by [Programming With Vishal's](https://www.youtube.com/watch?v=uwUGc1D4vf8) video. As the name says, it helps you to include html files inside html like PUG (which was previously Jade).
+This is a simple library which was inspired by [Programming With Vishal's](https://www.youtube.com/watch?v=uwUGc1D4vf8) video and [Unknown009d](https://github.com/unknown009d). As the name says, it helps you to include html files inside html like PUG (which was previously Jade).
 
 Use Via CDN
 ```
