@@ -1,0 +1,1 @@
+(()=>{const e=document.querySelectorAll("[data-include]");e&&e.forEach((e=>{let t=e.dataset.include;fetch(t).then((e=>e.text())).then((t=>{let a=document.createRange().createContextualFragment(t);e.appendChild(a)})).catch((e=>{}))}))})();
