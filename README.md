@@ -2,6 +2,11 @@
 
 This is a simple library which was inspired by [Programming With Vishal's](https://www.youtube.com/watch?v=uwUGc1D4vf8) video. As the name says, it helps you to include html files inside html like PUG (which was previously Jade).
 
+Use Via CDN
+```
+<script src="https://cdn.jsdelivr.net/gh/joy-dey/html-includer@latest/include-html-min.js"></script>
+```
+
 # How to use
 
 The process is quite simple. Create a partial html file and use `data-include="path/to/file"` to the parent element to render the included file.
